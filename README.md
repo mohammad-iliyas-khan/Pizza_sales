@@ -6,6 +6,7 @@ interactive Excel visualizations and data-driven SQL queries.
 Project Files=>
 
 1. pizza_sales_2025.xlsx
+
 A fully functional Excel Dashboard built using pivot tables, charts, and slicers.
 
 Includes key metrics like:
@@ -25,6 +26,7 @@ Top & Bottom Selling Pizzas
 Great for business users, data analysts, and Excel enthusiasts who prefer visual insights and interaction.
 
 2. PIZZA SALES SQL QUERIES.docx
+
 Contains SQL queries that replicate the dashboard metrics.
 
 Written for SQL-based analysis using a table named pizza_sales.
