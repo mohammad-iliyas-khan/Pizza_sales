@@ -1,8 +1,10 @@
 Pizza Sales Analysis Dashboard=>
+
 This project presents a Sales Analysis Dashboard for a fictional pizza store using both Excel and SQL, allowing you to explore the same data from two powerful perspectives:
 interactive Excel visualizations and data-driven SQL queries.
 
 Project Files=>
+
 1. pizza_sales_2025.xlsx
 A fully functional Excel Dashboard built using pivot tables, charts, and slicers.
 
@@ -51,10 +53,3 @@ Data Visualization (Excel)
 SQL Aggregation and Filtering
 
 Business Intelligence Techniques
-
-✅ Use Cases
-Practice building dashboards for retail/food industries
-
-Learn how to approach data from both Excel and SQL angles
-
-Improve data storytelling and reporting skills
